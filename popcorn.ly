@@ -1,12 +1,7 @@
-
-
 \header {
   title = "Popcorn"
   composer = "Vidar"
 }
-
-
-
 \score {
   \relative c' {
   \numericTimeSignature
