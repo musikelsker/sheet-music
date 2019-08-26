@@ -1,5 +1,5 @@
 \header {
-  title = "ÃÂblemand"
+  title = "Æblemand"
   composer = "musikelsker"
 }
 
@@ -21,10 +21,10 @@ a' g a g
     
   }
   \addlyrics {
-Ãb- le- mand kom indenfor,
-Ã¦blemand kom indenfor,
-har du nogen Ã¦bler med til mig i dag?
-Tak skal du haâ.
+Æb- le- mand kom indenfor,
+Æblemand kom indenfor,
+har du nogen æbler med til mig i dag?
+Tak skal du ha'.
 }
   \layout {}
   \midi {}
